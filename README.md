@@ -1,3 +1,4 @@
+from the youtube channel loopero
 # Locust Plugins
 
 The purpose of this project is to gather a curated set of plugins/extensions for [Locust](https://github.com/locustio/locust). 
